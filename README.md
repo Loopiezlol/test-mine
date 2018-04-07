@@ -1,2 +1,2 @@
 # atest-mine
-test
+testtest
